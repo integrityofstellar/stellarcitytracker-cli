@@ -5,7 +5,6 @@ Really simple app to track amount of habitats on each day.
 ```python
 » python main.py 16719 203
 Statistic for day 22 saved successfully
-Overall population: 154671
 
 Total: 16922 (+500)
 
