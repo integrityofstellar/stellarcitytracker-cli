@@ -15,8 +15,8 @@ Youtube: 203 (+250)
 ## Installation
 > You need to have [poetry](https://python-poetry.org/) installed.
 ```
-git clone https://github.com/denver-code/stellarcitytracker
-cd stellarcitytracker
+git clone https://github.com/integrityofstellar/stellarcitytracker-cli
+cd stellarcitytracker-cli
 poetry install
 ```
 
